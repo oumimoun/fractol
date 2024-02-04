@@ -9,7 +9,7 @@ Fractol is a captivating computer graphics exploration project that delves into 
 To install Fract'ol, follow these steps:
 
 ```bash
-git clone [git@github.com:oumimoun/fractol.git]
+git clone https://github.com/oumimoun/fractol.git
 cd fractol
 make
 ```
